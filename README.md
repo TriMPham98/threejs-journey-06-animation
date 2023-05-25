@@ -1,2 +1,2 @@
-# threejs-journey-05-animation
+# threejs-journey-06-animation
 We'll learn the basics of animation for objects.
